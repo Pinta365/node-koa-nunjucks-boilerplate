@@ -1,2 +1,2 @@
-static/ linguist-vendored=false
-views/ linguist-vendored=false
+static/* linguist-vendored=false
+views/* linguist-vendored=false
