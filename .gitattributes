@@ -1,1 +1,2 @@
-static/css/*.css linguist-vendored
+*.css linguist-vendored
+*.njk linguist-vendored
