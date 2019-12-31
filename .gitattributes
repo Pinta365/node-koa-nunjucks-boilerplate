@@ -1,3 +1,1 @@
-static/* linguist-vendored=false
-views/* linguist-vendored=false
-routes/* linguist-vendored
+static/css/*.css linguist-vendored
